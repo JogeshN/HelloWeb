@@ -10,7 +10,7 @@ namespace HelloWeb
             loggerFactory.AddConsole();
             app.UseStaticFiles();
            //app.UseWelcomePage();
-            app.UseWelcomePage();
+        //    app.UseWelcomePage();
             // changes done
             //app .UseWelcomepage()
 
