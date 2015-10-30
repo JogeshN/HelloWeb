@@ -12,6 +12,10 @@ namespace HelloWeb
            //app.UseWelcomePage();
             app.UseWelcomePage();
              // changes done
+             //app .UseWelcomepage()
+             
+             
+             
         }
     }
 }
