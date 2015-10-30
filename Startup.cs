@@ -16,7 +16,7 @@ namespace HelloWeb
 
             //app.UseWelcomePage();
 
-            //app.UseWelcomePage();
+            app.UseWelcomePage();
 
 
 
