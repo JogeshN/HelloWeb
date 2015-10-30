@@ -11,11 +11,13 @@ namespace HelloWeb
             app.UseStaticFiles();
            //app.UseWelcomePage();
             app.UseWelcomePage();
-             // changes done
-             //app .UseWelcomepage()
-             
-             
-             
+            // changes done
+            //app .UseWelcomepage()
+
+            //app.UseWelcomePage();
+
+
+
         }
     }
 }
