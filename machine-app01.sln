@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "vsapp01", "vsapp01.xproj", "{8D4B2AB5-C2D2-4EE0-B751-F4126C7D0539}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "machine-app01", "machine-app01.xproj", "{8D4B2AB5-C2D2-4EE0-B751-F4126C7D0539}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
